@@ -1,4 +1,4 @@
-# Construct Website bug reports
+# www.Construct.net Website bug reports
 
 This is where we handle public bug report submissions for the [Construct.net](https://www.construct.net/) website.
 
